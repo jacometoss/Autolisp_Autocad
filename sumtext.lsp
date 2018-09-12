@@ -1,5 +1,4 @@
 (defun C:sumtext()
-
 (princ "\n\ .... cargado ...")
 (princ)
 (princ (strcat "\nSuma de numeros en texto, Version 0.01, Copyright © 2011 by Ing. Marco Polo"))
@@ -25,14 +24,9 @@
 (setq  X (+ 1 X))
 (setq  J (+ 1 J))
 )
-
 (setq  TOTA (rtos TOTAL))
 (prompt "El total es = ")
 (prompt TOTA)(terpri)
-
-;(setq  P1 (GETPOINT " PUNTO DE INSERTCION: "))
-;(COMMAND "TEXT" "S" "STANDARD" P1 "0.2" "0" TOTA) 
-
 (prompt "\n Seleccione el texto a modificar: ")
 (setq  mod1 (entsel))
 (setq  m (entget (car mod1)))
@@ -42,7 +36,5 @@
 (setq  f (cons (car mod) TOTA))
 (setq  g (subst f mod m))
 (entmod g)
-
 (PROMPT "\n .......Exit.........")
-
 )
