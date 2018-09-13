@@ -12,7 +12,7 @@ Lisp Ingeniería Eléctrica
 
 ## Código sumetext.lsp
 
-```common lisp
+```Common Lisp
 (defun C:sumtext()
 (princ "\n\ .... cargado ...")
 (princ)
