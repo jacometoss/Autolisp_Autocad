@@ -6,7 +6,8 @@ Lisp Ingeniería Eléctrica
 2. Ejecute el comando sumtext
 3. Seleccione los textos a sumar
 4. Seleccione el texto donde desea visualizar la suma
-![GitHub Logo](https://image.ibb.co/eTmjEp/SUMTEX.jpg)
+
+![GitHub Logo](https://image.ibb.co/foTs0U/SUMTEX.jpg)
 
 
 
