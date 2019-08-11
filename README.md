@@ -7,8 +7,6 @@ Lisp Ingeniería Eléctrica
 3. Seleccione los textos a sumar
 4. Seleccione el texto donde desea visualizar la suma
 
-![GitHub Logo](https://image.ibb.co/foTs0U/SUMTEX.jpg)
-
 
 ## Código sumetext.lsp
 
