@@ -1,7 +1,7 @@
 (defun C:sumtext()
 (princ "\n\ .... cargado ...")
 (princ)
-(princ (strcat "\nSuma de numeros en texto, Version 0.01, Copyright © 2011-2021 by Ing. Marco Polo"))
+(princ (strcat "\nSuma de numeros en texto, Version 0.01, Copyright © 2011-2021 by Ing. Marco Polo Jácome Toss"))
 (princ (strcat "\n........................Autocad 2010-2021...................................."))
 (prompt "\n Programa para realizar suma de valores en texto simple ")
 (prompt "\n Seleccione los elementos a sumar: ")
