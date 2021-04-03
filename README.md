@@ -49,7 +49,7 @@ Lisp Ingeniería Eléctrica
 (setq  f (cons (car mod) d4))
 (setq  g (subst f mod m))
 (entmod g)
-(PROMPT "\n .......Exit.........")
+(prompt"\n .......Exit.........")
 )
 
 ```
