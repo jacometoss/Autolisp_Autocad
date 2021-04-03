@@ -4,7 +4,7 @@ Lisp Ingeniería Eléctrica
 ## Archivo sumetext.lsp
 1. Cargue la aplicación
 2. Ejecute el comando sumtext
-3. Seleccione los textos a sumar
+3. Seleccione los textos a sumar, deben ser sin estilos
 4. Seleccione el texto donde desea visualizar la suma
 
 
