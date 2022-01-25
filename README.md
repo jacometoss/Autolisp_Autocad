@@ -1,5 +1,6 @@
-# Autolisp_Autocad
-Lisp de Ingeniería Eléctrica
+# Autolisp para Autocad y Bricscad
+
+AurtoLisp para Ingeniería Eléctrica
 
 <img src="https://i.ibb.co/SP9Zzyt/sumtext.gif" />
 
