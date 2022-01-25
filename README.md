@@ -2,7 +2,7 @@
 
 AurtoLisp para Ingeniería Eléctrica
 
-<img src="https://i.ibb.co/SP9Zzyt/sumtext.gif" />
+<img src="https://i.ibb.co/SP9Zzyt/sumtext.gif"/>
 
 ## Archivo sumetext.lsp
 1. Busque la aplicación.
