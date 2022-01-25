@@ -1,7 +1,7 @@
 # Autolisp_Autocad
 Lisp de Ingeniería Eléctrica
 
-![sumtext](https://i.ibb.co/89KpGNF/sumtext.gif)
+<img src="https://i.ibb.co/89KpGNF/sumtext.gif" />
 
 ## Archivo sumetext.lsp
 1. Cargue la aplicación
