@@ -1,5 +1,7 @@
 # Autolisp_Autocad
-Lisp Ingeniería Eléctrica
+Lisp de Ingeniería Eléctrica
+
+![sumtext](https://i.ibb.co/89KpGNF/sumtext.gif)
 
 ## Archivo sumetext.lsp
 1. Cargue la aplicación
@@ -14,8 +16,8 @@ Lisp Ingeniería Eléctrica
 (defun C:sumtext()
 (princ "\n\ .... cargado ...")
 (princ)
-(princ (strcat "\nSuma de numeros en texto, Version 0.01, Copyright © 2011-2021 by Ing. Marco Polo"))
-(princ (strcat "\n..............................Autocad 2010-20121................................."))
+(princ (strcat "\nSuma de numeros en texto, Version 0.01"))
+(princ (strcat "\n © Derechos de autor 2022, Marco Polo Jácome Toss."))
 (prompt "\n < Programa para realizar suma de valores en texto > ")
 (prompt "\n Seleccione los elementos a sumar: ")
 (setq  AL (ssget))
@@ -26,16 +28,16 @@ Lisp Ingeniería Eléctrica
 (setq  C (sslength AL))
 (setq   CON C)
 (while (/= X CON)
-(setq  A (ssname AL X))
-(setq  B (entget A))
-(setq  D (assoc 1 B))
-(setq  d2 (CDR D))
-(setq  num (atof d2))
-(setq  d3 (strcat """(setq  cX1 num)"))
-(eval (read d3))
-(setq  d1 (+ d1 CX1))
-(setq  X (+ 1 X))
-(setq  J (+ 1 J))
+	(setq  A (ssname AL X))
+	(setq  B (entget A))
+	(setq  D (assoc 1 B))
+	(setq  d2 (CDR D))
+	(setq  num (atof d2))
+	(setq  d3 (strcat """(setq  cX1 num)"))
+	(eval (read d3))
+	(setq  d1 (+ d1 CX1))
+	(setq  X (+ 1 X))
+	(setq  J (+ 1 J))
 )
 (setq  d4 (rtos d1))
 (prompt "El total es = ")
