@@ -59,4 +59,12 @@ El código del archivo es el siguiente:
 
 ```
 
+## Desarrolador
 
+```tex
+Autor : Marco Polo Jácome Toss	
+Fecha de creación :  20 de Julio del 2013
+Licencia : GNU General Public License (GPL) 3.0
+Plataforma : AutoLisp
+Código fuente creado para sumar textos sin estilos dentro del área de dibujo de AutoCAD y Bricscad
+```
