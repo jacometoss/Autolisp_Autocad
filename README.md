@@ -59,7 +59,7 @@ El código del archivo es el siguiente:
 
 ```
 
-## Desarrolador
+## Desarrollador
 
 ```tex
 Autor : Marco Polo Jácome Toss	
