@@ -5,7 +5,7 @@ AurtoLisp para Ingeniería Eléctrica
 <img src="https://i.ibb.co/SP9Zzyt/sumtext.gif"/>
 
 ## Archivo sumetext.lsp
-1. Busque la aplicación.
+1. Busca la aplicación.
 2. Ejecute el comando sumtext.
 3. Seleccione los textos a sumar, deben ser sin estilos.
 4. Seleccione el texto donde desea visualizar la suma sin estilo.
