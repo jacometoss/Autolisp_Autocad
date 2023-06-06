@@ -1,6 +1,6 @@
 # Autolisp para Autocad y Bricscad
 
-AurtoLisp para Ingeniería Eléctrica
+AurtoLisp que suma números en formato texto
 
 <img src="https://i.ibb.co/SP9Zzyt/sumtext.gif"/>
 
