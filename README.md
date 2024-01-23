@@ -63,7 +63,7 @@ El código del archivo es el siguiente:
 
 ```tex
 Autor : Marco Polo Jácome Toss	
-Fecha de creación :  20 de Julio del 2013, ©Derechos de autor 2022 en adelante
+Fecha de creación :  20 de Julio del 2013. © 2022 en adelante
 Licencia : GNU General Public License (GPL) 3.0
 Plataforma : AutoLisp sumtext.lsp
 Código fuente creado para sumar textos sin estilos dentro del área de dibujo de AutoCAD y Bricscad
