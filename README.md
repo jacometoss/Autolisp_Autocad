@@ -20,7 +20,7 @@ El código del archivo es el siguiente:
 (princ "\n\ .... cargado ...")
 (princ)
 (princ (strcat "\nSuma de numeros en texto, Version 0.01"))
-(princ (strcat "\n © Derechos de autor 2022, Marco Polo Jácome Toss."))
+(princ (strcat "\n © 2022 en adelante, Marco Polo Jácome Toss."))
 (prompt "\n < Programa para realizar suma de valores en texto > ")
 (prompt "\n Seleccione los elementos a sumar: ")
 (setq  AL (ssget))
